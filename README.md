@@ -23,4 +23,5 @@ Aby uruchomić aplikację Perfecto, musisz mieć zainstalowane następujące opr
 
 ## Autorzy
 
-Perfecto zostało stworzone przez zespół programistów jako projekt na potrzeby nauki. Oto członkowie zespo
+Perfecto zostało stworzone przez zespół programistów jako projekt na potrzeby nauki. 
+
