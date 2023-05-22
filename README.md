@@ -14,12 +14,6 @@ Perfecto to aplikacja, która umożliwia zamawianie jedzenia online i jego dosta
 
 5. **Ulubione restauracje:** Perfecto umożliwia użytkownikom zapisywanie swoich ulubionych restauracji, co ułatwia szybkie zamawianie jedzenia w przyszłości.
 
-## Instalacja
-
-Aby zainstalować i uruchomić aplikację Perfecto, wykonaj następujące kroki:
-
-1. Sklonuj repozytorium na swoje lokalne urządzenie:git clone https://github.com/twoje-konto/perfecto.git
-
 ## Wymagania systemowe
 
 Aby uruchomić aplikację Perfecto, musisz mieć zainstalowane następujące oprogramowanie:
